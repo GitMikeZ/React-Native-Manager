@@ -1,7 +1,6 @@
-# React-Native-App
+# React-Native-Manager
 
-A simple app using the React.js framework that displays JSON data from heroku.
-The app has four main built components (that is reusable) including a Header, Card, CardSection, and a Button.
+A React-Native with Redux Manager App where users can login, create an employee profile, and delete (fire) a profile if they see fit.
 
 # Cloning the repo
 
@@ -16,10 +15,9 @@ To run the app, you will need the following installed:
 
 1. JSX
 2. Android Studio / AndroidSDK
-3. Microsoft visual Code / Sublime
+3. Google Firebase
 4. React Native CLI
+5. Redux (npm install --save react-redux redux)
 
-## React-Redux, Redux
 
-npm install --save react-redux redux
 
